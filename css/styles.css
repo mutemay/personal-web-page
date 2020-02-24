@@ -1,0 +1,128 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    font-size: 4.5rem;
+    margin: 0 auto 0 auto;
+    width: 20%;
+    font-family: 'Lacquer', sans-serif;
+    color: #5b8c5a;
+
+}
+hr {
+  border-color: #552244;
+  border-width: 5px;
+  border-style:none;
+  border-top-style: dotted;
+  width: 4%;
+}
+a {
+  color: #cfd186;
+}
+p  {
+    font-family: 'Montserrat', sans-serif;
+}
+h2  {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #cfd186;
+}
+h3  {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #552244;
+    font-weight: normal;
+}
+
+.top-container {
+    background-color: #cfd186;
+
+    padding-top: 100px;
+}
+/*
+.middle-container {
+    background-color: #552244;
+
+}
+*/
+.bottom-container {
+    background-color: #5b8c5a;
+    padding-bottom: 10px;
+
+}
+
+.topHeading{
+  padding-top: 150px;
+  line-height: 2;
+}
+.profilePic{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+.openingParagraph {
+  margin: auto;
+  width: 50%;
+}
+.skillsTextPJ {
+  position: relative;
+  right: 50px;
+}
+.skillsTextPST {
+  position: relative;
+  left: 50px;
+}
+.lineSpacing {
+  line-height: 2;
+}
+.problemSolvingTree {
+  width: 35%;
+  float: left;
+  padding-right: 10px;
+}
+.programJoke {
+  width: 25%;
+  float: right;
+  padding-left: 10px;
+}
+
+#bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+#top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+.myButton {
+	background-color:#552244;
+	border-radius:28px;
+	border:1px solid #ced186;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Times New Roman;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ced186;
+}
+.myButton:hover {
+	background-color:#ced186;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
