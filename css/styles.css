@@ -130,4 +130,7 @@ h3  {
 	position:relative;
 	top:1px;
 }
+a:hover {
+	color: #552244;
+}
 
