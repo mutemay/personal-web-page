@@ -21,6 +21,8 @@ hr {
 }
 a {
   color: #cfd186;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
 }
 p  {
     font-family: 'Montserrat', sans-serif;
@@ -114,7 +116,7 @@ h3  {
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
-	font-family:Times New Roman;
+	font-family: 'Montserrat', sans-serif;
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
